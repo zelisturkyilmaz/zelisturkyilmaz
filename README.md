@@ -23,7 +23,7 @@ I am a web development enthusiast who is constantly learning and improving my sk
 
 Feel free to take a look around and see what I'm working on. If you have any feedback or suggestions, please don't hesitate to reach out. I'm always open to learning new things and improving my skills.
 
-Thank you for visiting my page and happy coding!
+Happy coding!
 
 ---
 
