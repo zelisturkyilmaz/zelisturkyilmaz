@@ -15,7 +15,7 @@
 </div>
 
 
-### :woman_technologist: About Me :
+### :raising_hand: :computer: About Me :
 
 Welcome to my personal GitHub page!
 
