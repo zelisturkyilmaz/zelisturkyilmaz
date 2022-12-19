@@ -36,9 +36,9 @@ Happy coding!
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" **alt="Flask" width="40" height="40"/>
-  
-  
-  
-  
-  
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelisturkyilmaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
