@@ -39,7 +39,4 @@ Happy coding!
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" **alt="Flask" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelisturkyilmaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
