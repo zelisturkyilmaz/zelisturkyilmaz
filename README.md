@@ -21,9 +21,7 @@ Welcome to my personal GitHub page!
 
 I am a self-taught web developer who is constantly learning and improving her skills. On this page, you will find a collection of my projects and experiments as I navigate through the world of web development.
 
-Feel free to take a look around and see what I'm working on. If you have any feedback or suggestions, please don't hesitate to reach out. I'm always open to learning new things and improving my skills.
-
-Happy coding!
+Feel free to take a look around and see what I'm working on. If you have any feedback or suggestions, please don't hesitate to reach out. 
 
 ---
 
